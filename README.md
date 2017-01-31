@@ -1,8 +1,6 @@
 # Sketch-Keyboard-Shortcuts
 A list of all Keyboard Shortcuts 
 
-# Sketch Keyboard Shortcuts
-
 ### Application
 
 | Shortcut | Description |
